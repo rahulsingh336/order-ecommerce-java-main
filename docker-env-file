@@ -1,0 +1,4 @@
+SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/orderecommerce_db?currentSchema=public
+SPRING_DATASOURCE_DRIVERCLASSNAME=org.postgresql.Driver
+SPRING_DATASOURCE_USERNAME=orderecommerceuser
+SPRING_DATASOURCE_PASSWORD=orderecommercepwd
