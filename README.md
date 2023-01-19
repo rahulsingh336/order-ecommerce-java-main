@@ -41,4 +41,4 @@ Note:
 * Verify running instances from Docker Desktop
 
 ## Swagger : Use to validate API end points
-http://localhost:8080/order-ecommerce/swagger-ui/index.html
+http://localhost:8888/order-ecommerce/swagger-ui/index.html
